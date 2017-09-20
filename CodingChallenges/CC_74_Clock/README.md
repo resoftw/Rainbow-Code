@@ -5,3 +5,4 @@
 
 ## Clocks made by the Community!
 Add yours here!
+Extended with numbers and lines https://jsfiddle.net/mortenmoulder/azL19v69/1/
